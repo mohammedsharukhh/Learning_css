@@ -1,0 +1,24 @@
+*{
+margin: 0%;padding: 0%; /*opacity */
+}
+#opacity1{
+    color: darkgray;
+    background-color: rgb(214, 232, 17);
+    background-size: 0cap;
+}
+#opacity2{
+    color: aliceblue;
+    background-color: green;
+}
+main{
+    height: 1000px;
+    background-color: darkslategray;
+}
+#product{
+    /* background-image: url(https://www.disneyclips.com/images/images/mowgli3.png);
+    width: 470px;
+    height: 780px;
+    background-position: top; */
+    background: gold url(https://www.disneyclips.com/images/images/mowgli3.png)no-repeat top;
+    /*shorthand/*
+}
