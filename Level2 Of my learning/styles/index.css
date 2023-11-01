@@ -1,0 +1,16 @@
+*{
+    margin: 0%; padding: 0%;
+}
+body{
+    background-color: rgb(#fffa);
+    
+}
+#header{
+    background-color: rgb(137,153,20,0.9);
+    color: rgb(0, 0, 0);
+}
+#data{
+   background-color: rgb(137, 152, 20,0.2); /* alhpa channels used for transprancey and color we have  RGB that can make all colors we can right with numbers, hex by using #*/
+    color: rgb(0, 0, 0);
+    
+}
