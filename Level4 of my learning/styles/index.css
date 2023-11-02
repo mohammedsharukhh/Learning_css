@@ -1,4 +1,4 @@
-#box {
+/* #box {
     background-color: darkgreen;
     height: 100px;
     width: 100px;
@@ -16,4 +16,33 @@
     font-style: italic;
     font-family: 'Linefont', cursive;
     
+} */
+
+/* project level-4 */
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#sharuk {
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    background-color: lightpink;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+#family {
+    font-family: 'Times New Roman', Times, serif;
+}
+#inner {
+    font-size: 10px;
+}
+#outter {
+    font-size: 25px;
+}
+#icon{
+    font-size: 70px;
+}
+#icon2{
+    font-size: 100px;
 }
