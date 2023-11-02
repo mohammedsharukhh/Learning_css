@@ -11,4 +11,6 @@
 }
 .article{
     line-height: 15px;
+    font-weight: 900;
+    font-style: italic;
 }
