@@ -1,0 +1,12 @@
+.sharuk{
+    background-color: darkgreen;
+    height: 200px;
+    width: 200px;
+}
+#ui {
+    background-color: blue;
+    padding: 10px 15px 10px 15px;
+    margin: 100px;
+    border: 2px dotted red;
+    border-radius: 41px;
+}
