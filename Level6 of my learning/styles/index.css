@@ -2,13 +2,17 @@
     padding: 0px;
     margin: 0px;
 }
+#box1 {
+    visibility: hidden;
+    display: none;
+}
 .box {
     height: 50px;
     width: 50px;
     margin: 5px;
     background-color: khaki;
     text-align: center;
-    display: inline;
+    display: inline-block;
 
 
 }
