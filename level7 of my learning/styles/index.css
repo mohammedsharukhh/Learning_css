@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.box{
+    background-color:darkblue;
+    margin: 3px;
+    padding: 5px;
+    height: 50px;
+    width: 50px;
+    border-radius: 3px;
+    border: dotted red;
+    border-width: 1px;
+}
+#BOX1 {
+    position: static;
+}
+#BOX2 {
+    position: relative;
+    top: 10px;
+    left: 60px;
+}
+#BOX3 {
+    position: absolute;
+    top: 20px;
+    left: 80px;
+}
+#BOX4 {
+    position: fixed;
+    top: 10px;
+    right: 20px;
+}
