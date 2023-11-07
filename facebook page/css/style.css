@@ -1,0 +1,13 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+header {
+    color: rgb(34, 94, 224);
+    margin: 1px;
+    padding: 15px;
+    font-weight: 700;
+    position: relative;
+    top: 60px;
+    right: 5px;
+}
