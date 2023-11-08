@@ -1,6 +1,7 @@
 * {
     margin: 0px;
     padding: 0px;
+    background-color:#f0f2f5;
 }
 header {
     color: rgb(34, 94, 224);
@@ -8,6 +9,62 @@ header {
     padding: 15px;
     font-weight: 700;
     position: relative;
-    top: 60px;
-    right: 5px;
+    font-size: 5rem;
+    background-color: #f0f2f5;
+    top: 300px;
+    left: 600px;
+}
+main {
+    background-color:#f0f2f5;
+}
+#login {
+    height: 400px;
+    width: 396px;
+    background-color: white;
+    margin: 40px 0 0;
+    padding: 217px;
+    position: absolute;
+    left: 1000px;
+    border-radius: 8px;
+    display: block;
+}
+.login {
+    height: 40px;
+    width: 500px;
+    margin: 5px;
+    font-size: medium;
+    border-radius: 7px;
+    background-color: white;
+
+}
+#submit #button {
+    text-align: center;
+}
+#language {
+    display: inline;
+    position: relative;
+}
+footer {
+    position: fixed;
+    bottom: 0%;
+}
+#submit {
+    color:white;
+    background-color: #4267b2;
+    border: #4267b2;
+    font-weight: 700;
+}
+#button {
+    color:white;
+    border: #42b72a;
+    background-color: #42b72a;
+    text-shadow: #f0f2f5;
+    font-weight: 700;
+    width: 258px;
+}
+.user{
+    text-align: center;
+    position: fixed;
+    left: 10px;
+
 }
