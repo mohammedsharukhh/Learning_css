@@ -23,8 +23,9 @@ main {
     background-color: white;
     margin: 40px 0 0;
     padding: 217px;
-    position: absolute;
-    left: 1000px;
+    position: relative;
+    bottom: 150px;
+    left: 70rem;
     border-radius: 8px;
     display: block;
 }
@@ -41,17 +42,18 @@ main {
     text-align: center;
 }
 #language {
-    display: inline;
     position: relative;
 }
 footer {
     position: fixed;
-    bottom: 0%;
+    bottom: 1%;
+    font-weight: 300;
+    font-size: 13.5px;
 }
 #submit {
     color:white;
-    background-color: #4267b2;
-    border: #4267b2;
+    background-color: #1877f2;
+    border:#1877f2;
     font-weight: 700;
     margin: 10px;
     padding: 7px;
@@ -89,7 +91,7 @@ footer {
     background-color: #f0f2f5;
 
 }
-hr {
+.hr1 {
     position: relative;
     top: -30px;
     left: 8px;
@@ -112,7 +114,11 @@ section {
     position: relative;
     top: 35rem;
     left: 82em;
-    background-color: #1f6adb;
+    background-color: white;
     padding: 4px;
     margin: 5px;
+    width: 400px;
+}
+#hr1 {
+    width: 400px;
 }
