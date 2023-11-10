@@ -88,7 +88,8 @@ footer {
     height: 20px;
     width: 20px;
     top:9px;
-    background-color: #f0f2f5;
+    text-decoration: none;
+    background-color: white;
 
 }
 .hr1 {
@@ -112,8 +113,8 @@ p {
 }
 section {
     position: relative;
-    top: 35rem;
-    left: 82em;
+    top: -27rem;
+    left: 89em;
     background-color: white;
     padding: 4px;
     margin: 5px;
@@ -121,4 +122,14 @@ section {
 }
 #hr1 {
     width: 400px;
+}
+#logo {
+    height: 80px;
+    width: 80px;
+    padding: 16px;
+    margin: 0px;
+    border-radius: 80px;
+    position: relative;
+    left: 1em;
+    bottom: 17em;
 }
