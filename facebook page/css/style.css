@@ -9,17 +9,17 @@ header {
     padding: 15px;
     font-weight: 700;
     position: relative;
-    font-size: 5rem;
+    font-size: 8rem;
     background-color: #f0f2f5;
     top: 300px;
-    left: 600px;
+    left: 200px;
 }
 main {
     background-color:#f0f2f5;
 }
 #login {
-    height: 400px;
-    width: 396px;
+    height: 377px;
+    width: 465px;
     background-color: white;
     margin: 40px 0 0;
     padding: 217px;
@@ -53,6 +53,15 @@ footer {
     background-color: #4267b2;
     border: #4267b2;
     font-weight: 700;
+    margin: 10px;
+    padding: 7px;
+    border-radius: 7px;
+    text-align: center;
+    width: 504px;
+    height: 49px;
+    position: relative;
+    left: -5px;
+
 }
 #button {
     color:white;
@@ -60,11 +69,50 @@ footer {
     background-color: #42b72a;
     text-shadow: #f0f2f5;
     font-weight: 700;
-    width: 258px;
+    width: 270px;
+    position: relative;
+    left: 111px;
+    top: 35px;
+    margin-top: 20px;
+    
+
 }
 .user{
     text-align: center;
-    position: fixed;
-    left: 10px;
+    position: relative;
+    left: 163px;
+    margin: 20px;
+    padding: 8px;
+    height: 20px;
+    width: 20px;
+    top:9px;
+    background-color: #f0f2f5;
 
+}
+hr {
+    position: relative;
+    top: -30px;
+    left: 8px;
+    width: 500px;
+}
+#text {
+    font-size: xx-large;
+    position: relative;
+    top: 100px;
+}
+p {
+    font-size: xx-large;
+    position: relative;
+    top: 18rem;
+    left: 14rem;
+    font-size: 48px;
+
+}
+section {
+    position: relative;
+    top: 35rem;
+    left: 82em;
+    background-color: #1f6adb;
+    padding: 4px;
+    margin: 5px;
 }
