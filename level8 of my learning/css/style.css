@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    margin: 10px;
+}
+#container {
+    width: 303px;
+    height: 168px;
+    margin: 10px;
+    background-color: darkslateblue;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+}
+.box {
+    width: 35px;
+    height: 35px;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 3px;
+    text-transform: lowercase;
+    text-align: center;
+
+
+}
+#box1 {
+    background-color: cyan;
+}
+#box2 {
+    background-color: green;
+}
+#box3 {
+    background-color:cornflowerblue;
+}
+#box4 {
+    background-color:darkgoldenrod ;
+}
