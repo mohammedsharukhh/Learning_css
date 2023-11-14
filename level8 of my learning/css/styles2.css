@@ -1,0 +1,20 @@
+*{
+    margin: 0; padding: 0;
+}
+.box {
+        width: 100px;
+        height: 100px;
+        margin: 2px;
+        padding: 3px;
+        background-color: hotpink;
+        text-align: center;
+        font-size: medium;
+}
+@media screen and (min-width: 300px) {
+    #box1{
+        background-color: brown;
+        height: 150px;
+        width: 150px;
+    }
+    
+}
